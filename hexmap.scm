@@ -12,7 +12,7 @@
 
 ; Issues
 ;
-;  for
+;  you must first select the pencil tool beforce calling this script ?!??!?!?
 ;
 
 ; License:
