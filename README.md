@@ -23,4 +23,4 @@ A gimp script to produce hexagonal maps, with fancy features
 
 ## LICENSE:
 
-[MIT](http://www.opensource.org/licenses/MIT) see [MIT_LICENSE](https://github.com/jeremyz/hexmap/blob/master/MIT-LICENSE)
+[MIT](http://www.opensource.org/licenses/MIT) see [MIT_LICENSE](https://github.com/jeremyz/hexmap/blob/master/LICENSE)
