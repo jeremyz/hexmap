@@ -522,6 +522,7 @@
     (gimp-context-set-brush "HexMapBrush")
     (gimp-context-set-opacity 100)
     (gimp-context-set-paint-mode NORMAL-MODE)
+    (gimp-context-set-paint-method "gimp-pencil")
 
     ; paths
     (set! grid_path (car (gimp-vectors-new img "Hex Grid")))
