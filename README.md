@@ -6,9 +6,9 @@
 
 A gimp script to produce hexagonal maps, with fancy features
 
-## FEATURES/PROBLEMS:
+## ISSUES:
 
-* you must first select the pencil tool beforce calling this script ?!??!?!?
+* none known, thanks to <schumaml> on gimp irc channel
 
 ## FEATURES:
 
