@@ -10,7 +10,7 @@ A gimp script to produce hexagonal maps, with fancy features
 
 ## ISSUES:
 
-* none known, thanks to <schumaml> on gimp irc channel
+* none known, thanks to @schumaml on gimp irc channel
 
 ## FEATURES:
 
@@ -19,7 +19,7 @@ A gimp script to produce hexagonal maps, with fancy features
 * define #horizontal and #vertical hex
 * offmap x and y offset
 * erase/smooth none, hex edges or hex segments
-* chosoe hex line width and colour
+* choose hex line width and colour
 * choose map border line width and colour
 * choose offmap mask opacity
 
