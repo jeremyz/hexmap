@@ -6,6 +6,8 @@
 
 A gimp script to produce hexagonal maps, with fancy features
 
+![hexmap demo](hexmap.png "example")
+
 ## ISSUES:
 
 * none known, thanks to <schumaml> on gimp irc channel
