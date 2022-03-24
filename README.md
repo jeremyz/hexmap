@@ -7,6 +7,7 @@
 A gimp script to produce hexagonal maps, with fancy features
 
 ![hexmap demo](hexmap.png "example")
+![hexmap demo](hexmap-menu.png "menu")
 
 ## ISSUES:
 
